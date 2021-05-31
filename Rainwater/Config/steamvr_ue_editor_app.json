@@ -1,0 +1,22 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.virtual-reality-bp-game-template-15973114.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+<<<<<<< HEAD
+			"action_manifest_path": "C:/Users/graha/OneDrive/Documents/Github/Rainwater_V0.1/Rainwater/Config/SteamVRBindings/steamvr_manifest.json",
+=======
+			"action_manifest_path": "C:/Users/gdavis9658/Documents/GitHub/Rainwater_V0.1/Rainwater/Config/SteamVRBindings/steamvr_manifest.json",
+>>>>>>> 875c4f6ba5a57a4d602c0474e88d44924d69d43b
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "Virtual Reality BP Game Template-15973114 [UE Editor]"
+				}
+			}
+		}
+	]
+}
